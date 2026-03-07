@@ -5,4 +5,6 @@ f4 to Toggle
 
 If got any errors or glitches let me know
 
+By @BOT
+
 Original Code by DeadFish7 shoutout to him and his PublicLurker.
