@@ -8,3 +8,8 @@ If got any errors or glitches let me know
 By @BOT
 
 Original Code by DeadFish7 shoutout to him and his PublicLurker.
+
+## License
+This project is licensed under the MIT License.
+
+If you use this code, you must give credit.
